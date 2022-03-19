@@ -1,7 +1,7 @@
 # Smart_locker_using_Arduino
-Developed a real-time Smart door lock security system using Arduino.System works based on knock pattern.
+Developed a real-time Smart door lock security system using Arduino.System works based on knock pattern.<br>
 Code will be found in the PDF attached above
-<li>
+<br>
 <img src="sdl.PNG" alt="alt text" width="500" height="400">
 <li>Components required
   <ul>1.Arduino Uno</ul>
